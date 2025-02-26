@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shilong(Kevin) Zhao  
 
-I’m a passionate **Software Developer** with expertise in **full-stack development** and a focus on building **scalable, user-centric applications**. I love solving complex problems through clean, efficient code and enjoy working with modern technologies to create impactful solutions.  
+I’m a passionate **Software Developer** with expertise in **full-stack development** and a focus on data science and AI Development**. I love solving complex problems through clean, efficient code and enjoy working with modern technologies to create impactful solutions.  
 
 ---
 
@@ -10,13 +10,15 @@ I’m a passionate **Software Developer** with expertise in **full-stack develop
 - **Next.js**, **React**, **TypeScript**, **TailwindCSS**, **Zustand**  
 
 ### Backend  
-- **FastAPI**, **Node.js**, **SQLAlchemy**, **PostgreSQL**, **Redis**  
+- **FastAPI**, **Node.js**, **SQLAlchemy**, **PostgreSQL**, **Redis**
+### Database
+- **MongoDB** **Microsoft SQL Server**
 
 ### AI/ML  
 - **LlamaIndex**, **OpenAI GPT-4**, **Phoenix Arize AI**  
 
 ### Tools  
-- **Git**, **Docker**, **AWS**, **Figma**  
+- **Git**, **Docker**, **AWS**, **Azure**, **Apache Spark**,**Apache Kafaka**,**Figma** 
 
 ---
 
